@@ -1,0 +1,4 @@
+export const SET_CATEGORYID = 'SET_CATEGORYID'
+
+export const SET_PREPRODUCT = 'SET_PREPRODUCT'
+
