@@ -1,4 +1,4 @@
-# slowbuy
+# BB buy
 
 > A Vue.js project
 
